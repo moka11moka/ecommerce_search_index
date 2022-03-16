@@ -11,3 +11,5 @@ vec_match.py: using cosine similarity to match query and title
 data_check.py: Judge if the format of data is correct or not from official
 
 simcse_model_pesudo_0314.py, use self supervise simcse model to train 
+
+Add knowledge in the phrase of predicting
